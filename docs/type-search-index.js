@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"databases.part03","l":"Album"},{"p":"databases.part03","l":"AlbumDAO"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"databases.part02","l":"Artist"},{"p":"databases.part02","l":"ArtistAppMain"},{"p":"databases.part02","l":"ArtistDAO"},{"p":"databases.part01","l":"JdbcDemoMain"}];updateSearchResults();
